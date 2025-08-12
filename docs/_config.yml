@@ -1,0 +1,28 @@
+theme: just-the-docs
+
+# Podstawowa konfiguracja strony
+# Zobacz: https://just-the-docs.github.io/just-the-docs/
+
+# Tytuł i opis witryny
+# Zmień wedle potrzeb
+# Uwaga: GitHub Pages automatycznie buduje Jekylla z /docs na gałęzi main, gdy źródło ustawione jest na /docs
+
+title: PocketMine‑MP Plugin Dev (API 5)
+description: Nowoczesny przewodnik tworzenia pluginów dla PocketMine‑MP (2025)
+
+# Wyszukiwarka wbudowana w Just the Docs
+search_enabled: true
+
+# Linki pomocnicze w nagłówku
+aux_links:
+  "Repozytorium na GitHub": "https://github.com/Nyxoysysgsh/Pro"
+
+# Motyw kolorystyczny (light | dark)
+color_scheme: light
+
+# Stopka
+footer_content: "© 2025 • PocketMine‑MP Plugin Dev • Dokumentacja open‑source"
+
+# (Opcjonalnie) Podstawa adresu; zwykle niepotrzebne dla /docs
+# url: "https://nyxoysysgsh.github.io"
+# baseurl: "/Pro"
