@@ -39,6 +39,10 @@ const config = {
     ({
       navbar: {
         title: 'PMMP Docs',
+        logo: {
+          alt: 'PMMP Logo',
+          src: 'img/logo.svg',
+        },
         items: [
           {
             href: 'https://github.com/Nyxoysysgsh/Pro',
