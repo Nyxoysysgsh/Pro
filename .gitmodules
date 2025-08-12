@@ -1,3 +1,0 @@
-[submodule "vendor/docusaurus"]
-	path = vendor/docusaurus
-	url = https://github.com/facebook/docusaurus
