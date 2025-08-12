@@ -1,11 +1,9 @@
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
 
 # Podstawowa konfiguracja strony
 # Zobacz: https://just-the-docs.github.io/just-the-docs/
-
-# Tytuł i opis witryny
-# Zmień wedle potrzeb
-# Uwaga: GitHub Pages automatycznie buduje Jekylla z /docs na gałęzi main, gdy źródło ustawione jest na /docs
 
 title: PocketMine‑MP Plugin Dev (API 5)
 description: Nowoczesny przewodnik tworzenia pluginów dla PocketMine‑MP (2025)
@@ -23,6 +21,6 @@ color_scheme: light
 # Stopka
 footer_content: "© 2025 • PocketMine‑MP Plugin Dev • Dokumentacja open‑source"
 
-# (Opcjonalnie) Podstawa adresu; zwykle niepotrzebne dla /docs
+# (Opcjonalnie) Podstawa adresu dla publikacji w /docs na Pages przez Actions
 # url: "https://nyxoysysgsh.github.io"
 # baseurl: "/Pro"
