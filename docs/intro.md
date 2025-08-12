@@ -1,8 +1,6 @@
 ---
-layout: default
+id: intro
 title: Wprowadzenie
-nav_order: 1
-has_children: true
 ---
 
 # PocketMine‑MP (API 5) — przewodnik 2025
@@ -11,12 +9,12 @@ Ten serwis dokumentacji prowadzi Cię przez cały proces tworzenia pluginów dla
 
 ## Szybki start
 
-- Przejdź do sekcji [Instalacja i uruchomienie](getting-started.html)
-- Zainstaluj DevTools: [Praca z DevTools](devtools.html)
-- Utwórz strukturę pluginu: [Struktura pluginu](plugin-structure.html)
-- Dodaj komendy i eventy: [Komendy i eventy](commands-events.html)
-- Konfiguracja i scheduler: [Konfiguracja i scheduler](config-scheduler.html)
-- Build i publikacja: [Poggit i GitHub Pages](poggit-github.html)
+- Przejdź do sekcji [Instalacja i uruchomienie](getting-started)
+- Zainstaluj DevTools: [Praca z DevTools](devtools)
+- Utwórz strukturę pluginu: [Struktura pluginu](plugin-structure)
+- Dodaj komendy i eventy: [Komendy i eventy](commands-events)
+- Konfiguracja i scheduler: [Konfiguracja i scheduler](config-scheduler)
+- Build i publikacja: [Poggit i GitHub Pages](poggit-github)
 
 ## Dla kogo
 
