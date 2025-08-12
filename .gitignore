@@ -1,7 +1,8 @@
-node_modules/
-.build/
-build/
-.DS_Store
-.idea/
-.vscode/
+__pycache__/
+*.pyc
+.env
+.venv/
+.cache/
+.ingest/
+vector_store/
 *.log

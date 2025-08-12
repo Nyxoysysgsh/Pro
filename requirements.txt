@@ -1,0 +1,8 @@
+beautifulsoup4==4.12.3
+click==8.1.7
+scikit-learn==1.5.1
+numpy==2.0.1
+scipy==1.14.1
+nltk==3.9.1
+markdown-it-py==3.0.0
+rich==13.7.1
